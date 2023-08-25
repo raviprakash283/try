@@ -4,3 +4,7 @@ const fun = ()=>{
 }
 
  {fun};
+
+ const pp = ()=>{
+     console.log("pp")
+ }
